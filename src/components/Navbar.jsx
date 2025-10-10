@@ -19,11 +19,11 @@ const Navbar = () => {
       {/* Main Header */}
       <header className="flex flex-col md:flex-row md:items-center md:justify-between px-2 sm:px-4 md:px-20 py-1">
         <div className="flex flex-row w-full items-center justify-between">
-          <div className="flex items-center space-x-2 sm:space-x-3">
+          <Link href="/" className="flex items-center space-x-2 sm:space-x-3 group">
             <img
               src="/logo.png"
               alt="Blue lighthouse factory icon with smoke and clouds"
-              className="w-8 h-8 sm:w-12 sm:h-12 md:w-20 md:h-20"
+              className="w-8 h-8 sm:w-12 sm:h-12 md:w-20 md:h-20 group-hover:opacity-80 transition-opacity"
             />
             <div>
               <h1 className="text-[13px] sm:text-base md:text-2xl font-extrabold text-gray-900 leading-none flex items-center">
@@ -31,7 +31,7 @@ const Navbar = () => {
               </h1>
               <p className="text-gray-500 pl-1 text-[9px] sm:text-xs md:text-sm mt-1">Private Limited</p>
             </div>
-          </div>
+          </Link>
           <div className="flex flex-row items-center gap-2 md:gap-6 text-gray-700 text-[9px] sm:text-xs md:text-sm font-normal md:ml-auto">
             <div className="flex items-center space-x-1 sm:space-x-2">
               <i className="fas fa-map-marker-alt text-yellow-500 text-base sm:text-lg"></i>
