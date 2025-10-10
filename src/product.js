@@ -287,11 +287,11 @@ const productData = {
         {
           "name": "AWESOME",
           "images": [
-            "/Safety Shoe PVC/AWESOME/1.jpg",
-            "/Safety Shoe PVC/AWESOME/2.jpg",
-            "/Safety Shoe PVC/AWESOME/3.jpg",
-            "/Safety Shoe PVC/AWESOME/4.jpg",
-            "/Safety Shoe PVC/AWESOME/5.jpg"
+            "/Safety Shoe PVC/AWESOME/1.JPG",
+            "/Safety Shoe PVC/AWESOME/2.JPG",
+            "/Safety Shoe PVC/AWESOME/3.JPG",
+            "/Safety Shoe PVC/AWESOME/4.JPG",
+            "/Safety Shoe PVC/AWESOME/5.JPG"
           ],
           "content": {
             "description": "An exceptionally designed PVC safety shoe that lives up to its name. The AWESOME model provides a perfect balance of comfort, durability, and essential protection for a wide range of work environments.",
