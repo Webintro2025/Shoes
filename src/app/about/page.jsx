@@ -9,7 +9,7 @@ const AboutUsPage = () => (
       <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-[#DD2B1C] text-center mb-6 sm:mb-8 md:mb-10 tracking-tight">
         About Us
       </h1>
-      <About />
+  <About full />
       <WhatWeDo />
       <WhyWeAreUnique />
     </div>

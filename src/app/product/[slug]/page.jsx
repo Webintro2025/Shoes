@@ -64,11 +64,12 @@ const ProductDetailPage = () => {
         {/* Images Section */}
         <div>
           {/* Main Image */}
+
           <div className="mb-4">
             <img
               src={product.images[selectedImageIndex]}
               alt={product.name}
-              className="w-full h-[600px] object-cover rounded-lg shadow-lg"
+              className="w-full h-80 sm:h-[400px] md:h-[500px] lg:h-[700px] object-cover rounded-lg shadow-lg"
             />
           </div>
 
@@ -87,7 +88,7 @@ const ProductDetailPage = () => {
                 <img
                   src={image}
                   alt={`${product.name} view ${index + 1}`}
-                  className="w-full h-16 object-cover"
+                  className="w-full h-24 sm:h-28 md:h-32 object-cover"
                 />
               </button>
             ))}

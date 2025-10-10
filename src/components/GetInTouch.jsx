@@ -46,7 +46,7 @@ const GetInTouch = () => {
                   Phone Number
                 </div>
                 <div className="text-[#222] font-bold text-sm sm:text-base md:text-lg">
-                  9818008584
+                  9773797782
                 </div>
               </div>
             </div>

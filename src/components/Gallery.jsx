@@ -26,39 +26,80 @@ const Gallery = () => {
       </div>
 
       {/* Products Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
-        {allProducts.slice(0, imagesToShow).map((product, index) => (
-          <div 
-            key={index} 
-            className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 group"
-          >
-            {/* Image container with hover effect */}
-            <div className="relative w-full h-84 overflow-hidden">
-              <img 
-                src={product.images[0]} 
-                alt={product.name}
-                className="w-full h-full object-cover transition-opacity duration-300 group-hover:opacity-0"
-              />
-              <img 
-                src={product.images[1]} 
-                alt={`${product.name} - view 2`}
-                className="absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
-              />
-              
-              {/* Category Badge */}
-              <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">
-                {product.categoryName}
+      <div>
+        {/* Mobile & Tablet: Only 1 image per category */}
+        <div className="block lg:hidden">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+            {/* Safety Shoe PU */}
+            {productData.categories.filter(c => c.name === 'Safety Shoe PU').slice(0,1).map(category => (
+              <div key={category.name} className="bg-white shadow-lg rounded-lg overflow-hidden">
+                <div className="relative w-full h-64 overflow-hidden">
+                  <img src={category.products[0].images[0]} alt={category.products[0].name} className="w-full h-full object-cover" />
+                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">{category.name}</div>
+                </div>
+                <div className="p-4">
+                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">{category.products[0].name}</h3>
+                </div>
               </div>
-            </div>
-            
-            {/* Product Info */}
-            <div className="p-4">
-              <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">
-                {product.name}
-              </h3>
-            </div>
+            ))}
+            {/* Safety Shoe PVC */}
+            {productData.categories.filter(c => c.name === 'Safety Shoe PVC').slice(0,1).map(category => (
+              <div key={category.name} className="bg-white shadow-lg rounded-lg overflow-hidden">
+                <div className="relative w-full h-64 overflow-hidden">
+                  <img src={category.products[0].images[0]} alt={category.products[0].name} className="w-full h-full object-cover" />
+                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">{category.name}</div>
+                </div>
+                <div className="p-4">
+                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">{category.products[0].name}</h3>
+                </div>
+              </div>
+            ))}
+            {/* Gumboots */}
+            {productData.categories.filter(c => c.name === 'Gumboots').slice(0,1).map(category => (
+              <div key={category.name} className="bg-white shadow-lg rounded-lg overflow-hidden">
+                <div className="relative w-full h-64 overflow-hidden">
+                  <img src={category.products[0].images[0]} alt={category.products[0].name} className="w-full h-full object-cover" />
+                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">{category.name}</div>
+                </div>
+                <div className="p-4">
+                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">{category.products[0].name}</h3>
+                </div>
+              </div>
+            ))}
           </div>
-        ))}
+        </div>
+        {/* Desktop: Show full gallery as before */}
+        <div className="hidden lg:block">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
+            {allProducts.slice(0, imagesToShow).map((product, index) => (
+              <div 
+                key={index} 
+                className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 group"
+              >
+                <div className="relative w-full h-84 overflow-hidden">
+                  <img 
+                    src={product.images[0]} 
+                    alt={product.name}
+                    className="w-full h-full object-cover transition-opacity duration-300 group-hover:opacity-0"
+                  />
+                  <img 
+                    src={product.images[1]} 
+                    alt={`${product.name} - view 2`}
+                    className="absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+                  />
+                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">
+                    {product.categoryName}
+                  </div>
+                </div>
+                <div className="p-4">
+                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">
+                    {product.name}
+                  </h3>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
 
       {/* Read More Button - Remove since we only have 15 products total */}
