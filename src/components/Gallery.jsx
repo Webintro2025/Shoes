@@ -10,12 +10,13 @@ const categories = [
 		},
 		{
 			title: "Fall Protection",
-			image: "/gum.png",
+		
+      image: "/fall.png",
 			slug: "safety-shoe-pvc",
 		},
 		{
 			title: "Gumboots",
-			image: "/fall.png",
+				image: "/gum.png",
 			slug: "gumboots",
 		},
 
