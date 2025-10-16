@@ -1,123 +1,76 @@
-'use client'
-import React, { useState } from 'react'
-import productData from '../product.js'
+import React from "react";
+import Link from "next/link";
+
+const categories = [
+
+		{
+			title: "Foot Protection",
+			image: "/foot.png",
+			slug: "safety-shoe-pu",
+		},
+		{
+			title: "Fall Protection",
+			image: "/gum.png",
+			slug: "safety-shoe-pvc",
+		},
+		{
+			title: "Gumboots",
+			image: "/fall.png",
+			slug: "gumboots",
+		},
+
+];
 
 const Gallery = () => {
-  const [showMore, setShowMore] = useState(false)
-  
-  // Har category se sirf 5 products lena
-  const allProducts = []
-  productData.categories.forEach(category => {
-    const categoryProducts = category.products.slice(0, 5).map(product => ({
-      ...product,
-      categoryName: category.name
-    }))
-    allProducts.push(...categoryProducts)
-  })
+	return (
+		<section className="relative overflow-hidden bg-white py-16 sm:py-20">
+			<div className="absolute inset-0 -z-10 bg-gradient-to-br from-[#ffe0e7] via-white to-white" aria-hidden="true" />
 
-  // Total 15 products (5 from each category)
-  const imagesToShow = showMore ? allProducts.length : 15
+			<div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+				<p className="uppercase tracking-[0.35em] text-xs sm:text-sm text-gray-400 mb-3">Product Categories</p>
+				<h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 mb-3">
+					Product Categories
+				</h2>
+				<p className="text-gray-500 max-w-2xl mx-auto text-sm sm:text-base">
+					At Malgre Safety Solutions, we understand the diverse safety requirements of modern industries
+					and deliver trusted PPE solutions tailored to each need.
+				</p>
+			</div>
 
-  return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="text-center mb-8">
-        <h2 className="text-3xl font-bold text-gray-900 mb-4">Product Gallery</h2>
-        <p className="text-gray-600 text-lg">Explore our complete range of safety footwear</p>
-      </div>
+					<div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 grid gap-6 md:grid-cols-3">
+				{categories.map((category) => {
+					const Card = (
+						<article
+							key={category.title}
+							className="group relative overflow-hidden rounded-3xl border border-gray-200 bg-white shadow-lg transition-transform duration-300 hover:-translate-y-2 hover:shadow-2xl"
+						>
+							<div className="relative h-80 sm:h-[23rem] overflow-hidden">
+								<img
+									src={category.image}
+									alt={category.title}
+									className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+								/>
+								<div className="absolute inset-0 bg-gradient-to-t from-black/40 via-black/10 to-transparent" aria-hidden="true" />
+							</div>
+							<div className="py-4 text-center">
+								<h3 className="text-xl font-semibold text-gray-900">{category.title}</h3>
+							</div>
+						</article>
+					);
 
-      {/* Products Grid */}
-      <div>
-        {/* Mobile & Tablet: Only 1 image per category */}
-        <div className="block lg:hidden">
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-            {/* Safety Shoe PU */}
-            {productData.categories.filter(c => c.name === 'Safety Shoe PU').slice(0,1).map(category => (
-              <div key={category.name} className="bg-white shadow-lg rounded-lg overflow-hidden">
-                <div className="relative w-full h-64 overflow-hidden">
-                  <img src={category.products[0].images[0]} alt={category.products[0].name} className="w-full h-full object-cover" />
-                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">{category.name}</div>
-                </div>
-                <div className="p-4">
-                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">{category.products[0].name}</h3>
-                </div>
-              </div>
-            ))}
-            {/* Safety Shoe PVC */}
-            {productData.categories.filter(c => c.name === 'Safety Shoe PVC').slice(0,1).map(category => (
-              <div key={category.name} className="bg-white shadow-lg rounded-lg overflow-hidden">
-                <div className="relative w-full h-64 overflow-hidden">
-                  <img src={category.products[0].images[0]} alt={category.products[0].name} className="w-full h-full object-cover" />
-                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">{category.name}</div>
-                </div>
-                <div className="p-4">
-                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">{category.products[0].name}</h3>
-                </div>
-              </div>
-            ))}
-            {/* Gumboots */}
-            {productData.categories.filter(c => c.name === 'Gumboots').slice(0,1).map(category => (
-              <div key={category.name} className="bg-white shadow-lg rounded-lg overflow-hidden">
-                <div className="relative w-full h-64 overflow-hidden">
-                  <img src={category.products[0].images[0]} alt={category.products[0].name} className="w-full h-full object-cover" />
-                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">{category.name}</div>
-                </div>
-                <div className="p-4">
-                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">{category.products[0].name}</h3>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-        {/* Desktop: Show full gallery as before */}
-        <div className="hidden lg:block">
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
-            {allProducts.slice(0, imagesToShow).map((product, index) => (
-              <div 
-                key={index} 
-                className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 group"
-              >
-                <div className="relative w-full h-84 overflow-hidden">
-                  <img 
-                    src={product.images[0]} 
-                    alt={product.name}
-                    className="w-full h-full object-cover transition-opacity duration-300 group-hover:opacity-0"
-                  />
-                  <img 
-                    src={product.images[1]} 
-                    alt={`${product.name} - view 2`}
-                    className="absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
-                  />
-                  <div className="absolute top-2 left-2 bg-[#DD2B1C] text-white text-xs px-2 py-1 rounded-full">
-                    {product.categoryName}
-                  </div>
-                </div>
-                <div className="p-4">
-                  <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">
-                    {product.name}
-                  </h3>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </div>
+					if (category.slug) {
+						return (
+							<Link key={category.title} href={`/${category.slug}`} className="block">
+								{Card}
+							</Link>
+						);
+					}
 
-      {/* Read More Button - Remove since we only have 15 products total */}
-      {allProducts.length > 15 && (
-        <div className="text-center mt-8">
-          <button
-            onClick={() => setShowMore(!showMore)}
-            className="bg-[#DD2B1C] text-white px-8 py-3 rounded-lg hover:bg-[#B91C1C] transition-colors font-semibold shadow-lg"
-          >
-            {showMore ? 'Show Less' : 'Read More'}
-          </button>
-        </div>
-      )}
+					return Card;
+				})}
+			</div>
+		</section>
+	);
+};
 
-      {/* Product Count Info */}
-     
-    </div>
-  )
-}
-
-export default Gallery
+export default Gallery;
