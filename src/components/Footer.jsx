@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Footer = () => {
   return (
@@ -33,9 +34,21 @@ Private Limited
               </h3>
               <div className='w-16 lg:w-20 h-0.5 bg-[#DD2B1C] mb-3.5'></div>
               <ul className="text-gray-300 text-xs lg:text-sm space-y-1 lg:space-y-1.5">
-                <li className="hover:text-[#DD2B1C] cursor-pointer transition-colors">Safety Shoe PU</li>
-                <li className="hover:text-[#DD2B1C] cursor-pointer transition-colors">Safety Shoe PVC</li>
-                <li className="hover:text-[#DD2B1C] cursor-pointer transition-colors">Gumboots</li>
+                <li>
+                  <Link href="/safety-shoe-pu" className="hover:text-[#DD2B1C] transition-colors">
+                    Safety Shoe PU
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/safety-shoe-pvc" className="hover:text-[#DD2B1C] transition-colors">
+                    Safety Shoe PVC
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/gumboots" className="hover:text-[#DD2B1C] transition-colors">
+                    Gumboots
+                  </Link>
+                </li>
               </ul>
             </div>
 
