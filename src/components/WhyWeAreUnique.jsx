@@ -31,8 +31,8 @@ const WhyWeAreUnique = () => (
   <section className="bg-[#f7f5f5] py-8 sm:py-10 md:py-14 px-2 sm:px-4 md:px-0">
     <div className="max-w-7xl mx-auto">
       <div className="mb-6 sm:mb-8 md:mb-10 text-center">
-        <p className="text-[#f7941d] font-semibold text-xs sm:text-sm mb-2 tracking-wider flex items-center justify-center gap-2">
-          <span className="inline-block w-8 sm:w-12 border-t-2 border-[#f7941d]" />
+        <p className="text-black font-semibold text-xs sm:text-sm mb-2 tracking-wider flex items-center justify-center gap-2">
+          <span className="inline-block w-8 sm:w-12 border-t-2 border-black" />
           WHY CHOOSE US
         </p>
         <h2 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-[#DD2B1C] mb-2 sm:mb-4">
@@ -49,7 +49,7 @@ const WhyWeAreUnique = () => (
             className="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow border border-[#f1ecec] p-3 sm:p-4 md:p-6 flex flex-col gap-2"
           >
             <div className="flex items-center gap-2 sm:gap-3 mb-1 sm:mb-2">
-              <span className="text-[#f7941d] font-bold text-base sm:text-lg md:text-xl">{idx + 1}.</span>
+              <span className="text-black font-bold text-base sm:text-lg md:text-xl">{idx + 1}.</span>
               <h3 className="font-semibold text-[#991b1b] text-base sm:text-lg md:text-xl leading-snug">
                 {point.title}
               </h3>

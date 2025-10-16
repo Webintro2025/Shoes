@@ -77,7 +77,7 @@ const Maps = () => {
 
   return (
     <div className="w-full mb-1.5" style={{ minHeight: 240 }}>
-      <div className="mb-2 text-center font-semibold text-[#b07f52] text-xs sm:text-base md:text-lg">
+      <div className="mb-2 text-center font-semibold text-black text-xs sm:text-base md:text-lg">
         Destination: {destinationAddress}
       </div>
       <div
@@ -93,7 +93,7 @@ const Maps = () => {
       <div className="text-center mt-4">
         <button
           onClick={handleGetDirections}
-          className="bg-[#b07f52] hover:bg-[#9a6a3f] text-white px-4 py-2 rounded shadow text-xs sm:text-base"
+          className="bg-black hover:bg-red-600 text-white px-4 py-2 rounded shadow text-xs sm:text-base"
         >
           Get Directions
         </button>

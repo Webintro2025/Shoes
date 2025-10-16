@@ -15,8 +15,9 @@ export default function Home() {
     <About />
     <Gallery />
    <WhatWeDo />
+     <NewSection />
   <Industries />
-  <NewSection />
+
    <WhyWeAreUnique />
   <GetInTouch />
   <Maps />

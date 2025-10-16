@@ -7,10 +7,10 @@ const About = ({ full = false }) => (
     <div className="max-w-7xl mx-auto px-4 md:px-6">
       {/* Header Section */}
       <div className="text-center mb-12">
-        <p className="text-[#f7941d] font-semibold text-sm mb-4 flex items-center justify-center gap-2">
-          <span className="inline-block w-12 border-t-2 border-[#f7941d]" />
+        <p className="text-black font-semibold text-sm mb-4 flex items-center justify-center gap-2">
+          <span className="inline-block w-12 border-t-2 border-black" />
           ABOUT US
-          <span className="inline-block w-12 border-t-2 border-[#f7941d]" />
+          <span className="inline-block w-12 border-t-2 border-black" />
         </p>
         <h2 className="text-2xl md:text-4xl font-extrabold leading-tight mb-6">
           Malgre Safety Solutions Private Limited: About Us
@@ -23,7 +23,7 @@ const About = ({ full = false }) => (
           <img
             src="/aboutnew.jpg"
             alt="Safety Shoe"
-            className="w-full max-w-md h-64 md:h-80 object-contain rounded-xl shadow-2xl border-2 border-[#f7941d]"
+            className="w-full max-w-md h-64 md:h-80 object-contain rounded-xl shadow-2xl border-2 border-black"
           />
         </div>
         <div className="order-1 md:order-2 md:col-span-3">
@@ -36,7 +36,7 @@ const About = ({ full = false }) => (
           </p>
           {!full && (
             <Link href="/about" legacyBehavior>
-              <a className="inline-block px-6 py-2 bg-[#f7941d] text-white font-semibold rounded-full shadow hover:bg-[#dd2b1c] transition-colors duration-200">Read More</a>
+              <a className="inline-block px-6 py-2 bg-black text-white font-semibold rounded-full shadow hover:bg-[#1f2937] transition-colors duration-200">Read More</a>
             </Link>
           )}
         </div>
