@@ -106,33 +106,98 @@ const ProductDetailPage = () => {
             </h1>
           </div>
 
-          {/* Features Section */}
-          <div className="mb-8">
-            <h2 className="text-2xl font-semibold text-gray-900 mb-4">
-              Features & Specifications
-            </h2>
-            <div className="bg-gray-50 rounded-lg p-6">
-              <ul className="space-y-3">
-                {product.content.features.map((feature, index) => (
-                  <li key={index} className="flex items-start">
-                    <span className="w-2 h-2 bg-[#DD2B1C] rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                    <span className="text-gray-700">{feature}</span>
-                  </li>
-                ))}
-              </ul>
+          {/* Description */}
+          {product.content?.description && (
+            <div className="mb-8">
+              <h2 className="text-2xl font-semibold text-gray-900 mb-3">
+                Product Overview
+              </h2>
+              <p className="text-gray-700 leading-relaxed">
+                {product.content.description}
+              </p>
             </div>
-          </div>
+          )}
+
+          {/* Characteristics Section */}
+          {Array.isArray(product.content.Charactertistics) && product.content.Charactertistics.length > 0 && (
+            <div className="mb-8">
+              <h2 className="text-2xl font-semibold text-gray-900 mb-4">
+                Highlights
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {product.content.Charactertistics.map((group, index) => (
+                  <div key={index} className="bg-gray-50 rounded-lg p-4">
+                    <h3 className="text-lg font-semibold text-gray-900 mb-3">
+                      {group.title}
+                    </h3>
+                    <ul className="space-y-2">
+                      {group.items?.map((item, itemIndex) => (
+                        <li key={itemIndex} className="text-gray-700 flex items-start">
+                          <span className="w-1.5 h-1.5 bg-[#DD2B1C] rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                          <span className="uppercase tracking-wide text-sm">{item}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          
+        </div>
+        
+      </div>
+
+
+      {/* Specification Table */}
+          {Array.isArray(product.content.features) && product.content.features.length > 0 && (
+            <div className="mb-8">
+              <h2 className="text-2xl  px-11 font-semibold text-gray-900 mb-4">
+                Specifications
+              </h2>
+              <div className="overflow-hidden rounded-lg border border-gray-200">
+                <table className="w-full text-left text-sm">
+                  <tbody>
+                    {product.content.features.map((feature, index) => {
+                      const [rawLabel, ...rawValue] = feature.split(':')
+                      const label = rawLabel.replace(/^\d+\.\s*/, '').trim()
+                      const value = rawValue.join(':').trim()
+                      return (
+                        <tr
+                          key={index}
+                          className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}
+                        >
+                          <th className="w-1/3 px-4 py-3 text-gray-600 font-semibold uppercase tracking-wide">
+                            {label}
+                          </th>
+                          <td className="px-4 py-3 text-gray-800">
+                            {value}
+                          </td>
+                        </tr>
+                      )
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
 
           {/* Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
             <button className="bg-[#DD2B1C] text-white px-8 py-3 rounded-lg hover:bg-[#B91C1C] transition-colors font-semibold">
               Contact for Quote
             </button>
-           
+            {product.content.pdf && (
+              <a
+                href={product.content.pdf}
+                download
+                className="inline-block bg-red-600  border border-gray-300 text-gray-800 px-6 py-3 text-white rounded-lg hover:bg-gray-100 transition-colors font-semibold"
+              >
+                Download PDF
+              </a>
+            )}
           </div>
-        </div>
-        
-      </div>
        <div className="mt-12 text-center">
         <Link 
           href={`/${categoryName.toLowerCase().replace(/\s+/g, '-')}`}

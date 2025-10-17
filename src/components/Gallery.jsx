@@ -12,7 +12,7 @@ const categories = [
 			title: "Fall Protection",
 		
       image: "/fall.png",
-			slug: "safety-shoe-pvc",
+	
 		},
 		{
 			title: "Gumboots",

@@ -12,9 +12,37 @@ const productData = {
             "/Safety Shoe PU/LEONINE DOUBLE DENSITY/4.jpg",
             "/Safety Shoe PU/LEONINE DOUBLE DENSITY/5.jpg"
           ],
-          "content": {
-            "description": "A robust, double-density PU safety shoe offering superior shock absorption and durability. Designed for heavy-duty industrial use where extra cushioning and protection are required.",
-"features": [
+"content": {
+  "description": "Step into confidence with Leonine, the cutting edge microfiber PU safety shoes from Malgre. Designed for modern professionals, these safety shoes combine lightweight comfort with uncompromising protection; crafted from premium microfiber and coated with durable PU, they offer superior resistance to abrasion, water, and chemicals while remaining breathable and flexible for all-day wear.",
+
+  Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
+  "features": [
   "1. WEIGHT (BASED ON SIZE 8): 996 GRAMS",
   "2. SIZE: 6,7,8,9,10,11",
   "3. OUTSOLE: HIGH DENSITY POLYURETHANE WITH CLEAT DESIGN FOR SLIP RESISTANCE AND QUICK DISPERSION",
@@ -28,7 +56,8 @@ const productData = {
   "10. TOE CAP: 200 JOULE METALLIC TOE CAPS (IS:5852 PART 2)",
   "11. EYELETS: RUST RESISTANT D-EYELETS",
   "12. PACKING: 20"
-]
+],
+pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           }
         },
         {
