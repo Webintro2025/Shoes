@@ -153,9 +153,20 @@ const ProductDetailPage = () => {
       {/* Specification Table */}
           {Array.isArray(product.content.features) && product.content.features.length > 0 && (
             <div className="mb-8">
-              <h2 className="text-2xl  px-11 font-semibold text-gray-900 mb-4">
-                Specifications
-              </h2>
+              <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 px-4 sm:px-8">
+                <h2 className="text-2xl font-semibold text-gray-900">
+                  Specifications
+                </h2>
+                {product.content.pdf && (
+                  <a
+                    href={product.content.pdf}
+                    download
+                    className="inline-flex items-center justify-center mb-2 bg-[#DD2B1C] text-white px-6 py-3 rounded-lg shadow hover:bg-[#B91C1C] transition-colors font-semibold"
+                  >
+                    Download Specifications
+                  </a>
+                )}
+              </div>
               <div className="overflow-hidden rounded-lg border border-gray-200">
                 <table className="w-full text-left text-sm">
                   <tbody>
@@ -166,7 +177,7 @@ const ProductDetailPage = () => {
                       return (
                         <tr
                           key={index}
-                          className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}
+                          className={index % 2 === 0 ? 'bg-white' : 'bg-gray-300'}
                         >
                           <th className="w-1/3 px-4 py-3 text-gray-600 font-semibold uppercase tracking-wide">
                             {label}
@@ -183,21 +194,7 @@ const ProductDetailPage = () => {
             </div>
           )}
 
-          {/* Action Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4">
-            <button className="bg-[#DD2B1C] text-white px-8 py-3 rounded-lg hover:bg-[#B91C1C] transition-colors font-semibold">
-              Contact for Quote
-            </button>
-            {product.content.pdf && (
-              <a
-                href={product.content.pdf}
-                download
-                className="inline-block bg-red-600  border border-gray-300 text-gray-800 px-6 py-3 text-white rounded-lg hover:bg-gray-100 transition-colors font-semibold"
-              >
-                Download PDF
-              </a>
-            )}
-          </div>
+   
        <div className="mt-12 text-center">
         <Link 
           href={`/${categoryName.toLowerCase().replace(/\s+/g, '-')}`}
