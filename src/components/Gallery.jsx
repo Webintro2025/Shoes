@@ -4,8 +4,8 @@ import Link from "next/link";
 const categories = [
 
 		{
-			title: "Foot Protection",
-			image: "/foot.png",
+			title: "Pu Safety Shoes ",
+			image: "/Safety Shoe PU/LEONINE DOUBLE DENSITY/1.jpg",
 			slug: "safety-shoe-pu",
 		},
 		{
@@ -14,9 +14,18 @@ const categories = [
       image: "/fall.png",
 	
 		},
+	
+
+		{
+			title: "Pvc safety shoes",
+		
+      image: "/pvscs.png",
+	  slug:'safety-shoe-pvc'
+	
+		},
 		{
 			title: "Gumboots",
-				image: "/gum.png",
+				image: "/gummm.png",
 			slug: "gumboots",
 		},
 
@@ -38,7 +47,7 @@ const Gallery = () => {
 				</p>
 			</div>
 
-					<div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 grid gap-6 md:grid-cols-3">
+					<div className=" mx-auto px-4 sm:px-6 lg:px-8 mt-12 grid gap-6 md:grid-cols-4">
 				{categories.map((category) => {
 					const Card = (
 						<article
