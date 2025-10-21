@@ -69,8 +69,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/LEONINE SINGLE DENSITY/4.jpg",
             "/Safety Shoe PU/LEONINE SINGLE DENSITY/5.jpg"
           ],
-          "content": {
-            "description": "A lightweight and comfortable single-density PU safety shoe. Ideal for general industrial applications where workers need all-day comfort without compromising on essential safety features.",
+       "content": {
+  "description": "Step into confidence with Leonine, the cutting edge microfiber PU safety shoes from Malgre. Designed for modern professionals, these safety shoes combine lightweight comfort with uncompromising protection; crafted from premium microfiber and coated with durable PU, they offer superior resistance to abrasion, water, and chemicals while remaining breathable and flexible for all-day wear.",
+
+  Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1. WEIGHT (BASED ON SIZE 8): 904 GRAMS",
   "2. SIZE: 6,7,8,9,10,11",
@@ -85,7 +113,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "10. TOE CAP: 200 JOULE METALLIC TOE CAPS (IS:5852 PART 2)",
   "11. EYELETS: RUST RESISTANT D-EYELETS",
   "12. PACKING: 20"
-]
+],
+pdf: '/lEONINE SINGLE DENSITY.pdf'
           }
         },
         {
@@ -97,8 +126,37 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/LOGIN NEW/4.jpg",
             "/Safety Shoe PU/LOGIN NEW/5.jpg"
           ],
-          "content": {
-            "description": "The latest addition to our safety footwear line, the LOGIN NEW model combines modern design with high-level protection. Its sleek profile doesn't compromise on safety, making it a popular choice.",
+    
+            "content": {
+  "description": "Step into confidence with Leonine, the cutting edge microfiber PU safety shoes from Malgre. Designed for modern professionals, these safety shoes combine lightweight comfort with uncompromising protection; crafted from premium microfiber and coated with durable PU, they offer superior resistance to abrasion, water, and chemicals while remaining breathable and flexible for all-day wear.",
+
+  Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
             "features": [
              "1.WEIGHT (BASED ON SIZE 8): 866 GRAM",
 "2.SIZE: 6,7,8,9,10,11",
@@ -113,7 +171,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
 "HEIGHT: LOW CUT",
 "11. EYELETS: RUST RESISTANT EYELETS",
 "12. PACKING: 20 PAIR" 
-            ]
+            ],
+            pdf:'/LOGIN SINGLE DENSITY .pdf'
           }
         },
         {
@@ -125,8 +184,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/MISS DOUBLE DENSITY/4.jpg",
             "/Safety Shoe PU/MISS DOUBLE DENSITY/5.jpg"
           ],
-          "content": {
-            "description": "Specifically designed for comfort and protection, the MISS Double Density shoe provides a comfortable fit while offering robust double-density protection against impact and punctures.",
+                 "content": {
+  "description": "Step into confidence with Leonine, the cutting edge microfiber PU safety shoes from Malgre. Designed for modern professionals, these safety shoes combine lightweight comfort with uncompromising protection; crafted from premium microfiber and coated with durable PU, they offer superior resistance to abrasion, water, and chemicals while remaining breathable and flexible for all-day wear.",
+
+  Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ], 
 "features": [
   "1. WEIGHT (BASED ON SIZE 8): 740 GRAMS",
   "2. SIZE: 6,7,8,9,10,11",
@@ -142,6 +229,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING: 24"
 ]
+,
+pdf:'/MISS-DOUBLE_DENSITY.pdf'
           }
         },
         {
@@ -153,8 +242,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/MISS SINGLE DENSITY/4.jpg",
             "/Safety Shoe PU/MISS SINGLE DENSITY/5.jpg"
           ],
-          "content": {
-            "description": "A lightweight and agile single-density shoe perfect for environments that require mobility and basic protection. Provides reliable safety without the bulk.",
+                     "content": {
+  "description": "Step into confidence with Leonine, the cutting edge microfiber PU safety shoes from Malgre. Designed for modern professionals, these safety shoes combine lightweight comfort with uncompromising protection; crafted from premium microfiber and coated with durable PU, they offer superior resistance to abrasion, water, and chemicals while remaining breathable and flexible for all-day wear.",
+
+  Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1. WEIGHT (BASED ON SIZE 5): 640 GRAMS",
   "2. SIZE: 6,7,8,9,10,11",
@@ -170,7 +287,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING:24"
 ]
-          }
+  ,
+pdf:'/MISS-SINGLE_DENSITY.pdf'        }
         },
         {
           "name": "MS 102",
@@ -182,7 +300,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/MS 102/5.jpg"
           ],
           "content": {
-            "description": "A classic and reliable safety shoe model, the MS 102 is built for endurance. Its simple yet effective design makes it a staple for a variety of industries.",
+            "description": "Engineered forcomfort and safety, the MS-102 Knitting PU Safety Shoes from MALGRE are the perfect choice for professionals who demand both performance and style. Featuring an innovative knitted upper, these shoes offer enhanced flexibility, breathability, and a lightweight feel-ideal for long shifts and fast paced environments. With MS-102, Safety meets modern design. Trust MALGRE deliver that works as hard as you do.",
+
+            
+  Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1. WEIGHT (BASED ON SIZE 8): 830 GRAMS",
   "2. SIZE: 6,7,8,9,10,11",
@@ -196,7 +343,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "10. TOE CAP: 200 JOULE METALLIC TOE CAPS (IS:5852 PART 2)",
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING:20"
-]
+],
+pdf:'/MISS-SINGLE_DENSITY.pdf'
           }
         },
         {
@@ -209,7 +357,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/MS 201 DOUBLE DENSITY/5.jpg"
           ],
           "content": {
-            "description": "The MS 201 Double Density offers superior protection with its two-layer sole construction. The outer layer provides traction and durability, while the inner layer ensures comfort and shock absorption.",
+          "description": `Engineered for comfort and safety, the MS-201 Knitting PU Safety Shoes from MALGRE are the perfect choice for professionals who demand both performance and style; featuring an innovative knitted upper, these shoes offer enhanced flexibility, breathability, and a lightweight feel—ideal for long shifts and fast-paced environments. With MS-201, safety meets modern design; trust MALGRE to deliver footwear that works as hard as you do.`,
+
+Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1. WEIGHT (BASED ON SIZE 8): 962 GRAMS",
   "2. SIZE: 6,7,8,9,10,11",
@@ -223,7 +399,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "10. TOE CAP: 200 JOULE METALLIC TOE CAPS (IS:5852 PART 2)",
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING:20"
-]
+],
+pdf:'/MS 201.pdf'
           }
         },
         {
@@ -236,7 +413,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/MS 204/5.jpg"
           ],
           "content": {
-            "description": "A versatile safety shoe that balances safety and comfort. The MS 204 is designed for general-purpose use and offers reliable protection for a range of work environments.",
+            "description": "Engineered for comfort and safety, the MS-204 Knitting PU Safety Shoes from MALGRE are the perfect choice for professionals who demand both performance and style; featuring an innovative knitted upper, these shoes offer enhanced flexibility, breathability, and a lightweight feel - ideal for long shifts and fast-paced environments. With MS-204, safety meets modern design; trust MALGRE to deliver footwear that works as hard as you do.",
+
+ Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
+
             "features": [
 "1.WEIGHT (BASED ON SIZE 8): 866 GRAMS",
 "2.SIZE: 6,7,8,9,10,11",
@@ -251,7 +457,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
 "11. EYELETS: RUST RESISTANT EYELETS",
 "12. PACKING:20"
 
-            ]
+            ],
+            pdf:'/MS 204.pdf'
           }
         },
         {
@@ -265,6 +472,33 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "Built for durability and performance, the MS 210 provides a secure fit and robust protection. It's a dependable option for workers who need a shoe they can count on.",
+            Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 893 GRAMS",
   "2.SIZE: 6,7,8,9,10,11",
@@ -278,7 +512,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "10. TOE CAP: 200 JOULE METALLIC TOE CAPS (IS:5852 PART 2)",
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING:20"
-]
+],
+pdf:'/MS 210.pdf'
           }
         },
         {
@@ -291,7 +526,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PU/MS 215/5.jpg"
           ],
           "content": {
-            "description": "An advanced safety shoe model with a focus on all-around protection. The MS 215 features enhanced safety elements to protect against multiple workplace hazards.",
+            "description": "Engineered for comfort and safety, the MS-215 Knitting PU Safety Shoes from MALGRE are the perfect choice for professionals who demand both performance and style; featuring an innovative knitted upper, these shoes offer enhanced flexibility, breathability, and a lightweight feel—ideal for long shifts and fast-paced environments. With MS-215, safety meets modern design; trust MALGRE to deliver footwear that works as hard as you do.",
+
+            Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1. WEIGHT (BASED ON SIZE 8): 817 GRAMS",
   "2. SIZE: 6,7,8,9,10,11",
@@ -305,7 +568,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "10. TOE CAP: 200 JOULE METALLIC TOE CAPS (IS:5852 PART 2)",
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING:20"
-]
+],
+pdf:"/MS 215.pdf"
           }
         }
       ]
@@ -322,8 +586,38 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PVC/AWESOME/4.JPG",
             "/Safety Shoe PVC/AWESOME/5.JPG"
           ],
-          "content": {
-            "description": "An exceptionally designed PVC safety shoe that lives up to its name. The AWESOME model provides a perfect balance of comfort, durability, and essential protection for a wide range of work environments.",
+"content": {
+  "description": "The Malgre Awesome PVC Safety Shoes are engineered to deliver superior protection, comfort, and durability in tough working conditions; crafted from premium PVC material, these shoes offer excellent resistance against water, chemicals, and abrasions; the slip-resistant sole ensures safe footing on slippery surfaces while the lightweight design provides all-day comfort without compromising on safety. Perfect for industrial, construction, and outdoor environments, the Malgre Awesome combines reliability with performance to keep you safe on the job.",
+
+
+            Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
+
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 1206 GRAMS",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -336,7 +630,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "HEIGHT: HIGH CUT",
   "11. EYELETS: RUST RESISTANT D-EYELETS",
   "12. PACKING: 20"
-]
+],
+pdf:"/Awesome.pdf"
           }
         },
         {
@@ -348,8 +643,38 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PVC/BESTGO BLACK/4.jpg",
             "/Safety Shoe PVC/BESTGO BLACK/5.jpg"
           ],
-          "content": {
-            "description": "The BESTGO BLACK is a classic choice for reliable safety footwear. Its sleek black finish and sturdy PVC construction make it a go-to option for professionals who need dependable protection.",
+"content": {
+  "description": "The Malgre Bestgo Black PVC Safety Shoes are engineered to deliver superior protection, comfort, and durability in tough working conditions. Crafted from premium PVC material, these shoes offer excellent resistance against water, chemicals, and abrasions. The slip-resistant sole ensures safe footing on slippery surfaces, while the lightweight design provides all-day comfort without compromising on safety. Perfect for industrial, construction, and outdoor environments, the Malgre Bestgo Black combines reliability with performance to keep you safe on the job.",
+
+
+            
+            Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 878 GRAMS",
   "2.SIZE: 6,7,8,9,10,11",
@@ -362,7 +687,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "HEIGHT: MID CUT",
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING: 24"
-]
+],
+pdf:'/BESTGO BLACK.pdf'
           }
         },
         {
@@ -375,7 +701,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PVC/BESTGO ORANGE/5.jpg"
           ],
           "content": {
-            "description": "Offering all the features of the BESTGO line with a high-visibility orange finish. The BESTGO ORANGE is ideal for work sites where being easily seen is a safety priority.",
+            "description": "The Malgre Bestgo Orange PVC Safety Shoes are engineered to deliver superior protection, comfort and durability in tough working conditions. Crafted from premium PVC material, these shoes offer  excellent resistance against water, chemicals, and abrasions. The slip-resistant sole ensures safe footing on slippery surfaces, while the lightweight design provides all-day comfort without compromising on safety. Perfect for industrial, construction, and outdoor environments, the Malgre Bestgo Orange combines reliability with performance to keep you safe on the job.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 878 GRAMS",
   "2.SIZE: 6,7,8,9,10,11",
@@ -389,7 +744,9 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING: 24"
 ]
-          }
+    ,
+
+pdf:'/BESTGO ORANGE.pdf'}
         },
         {
           "name": "DECOR EXCLUSIVE",
@@ -402,6 +759,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "Step up your safety and style with the DECOR EXCLUSIVE. This model combines enhanced safety features with a more refined look, making it suitable for professional and supervisory roles.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
             "features": [
               "Reinforced toe protection",
               "Advanced slip resistance",
@@ -421,6 +807,34 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "Specifically engineered for wet and rainy conditions, the DECOR RAINY safety shoe provides superior water resistance and grip to prevent slips and falls on slick surfaces.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
             "features": [
             "2.SIZE: 6,7,8,9,10,11",
 "3.WEIGHT (ACCORDING TO SIZE 8): 921 GRAMS",
@@ -444,6 +858,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "A reliable and practical choice for everyday workplace safety. The DECOR SAFE shoe is built to offer solid protection without unnecessary frills, focusing on core safety needs.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
             "features": [
 "2.SIZE: 6,7,8,9,10,11",
 "3.WEIGHT (ACCORDING TO SIZE 8): 978 GRAMS",
@@ -467,6 +910,34 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "The EONE model is a premium safety shoe designed for maximum performance. It integrates advanced materials and an ergonomic design for a superior fit and unparalleled protection.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
             "features": [
              "1.WEIGHT (BASED ON SIZE 8): 984 GRAMS",
 "2.SIZE: 5,6,7,8,9,10,11",
@@ -492,7 +963,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PVC/FABB/5.jpg"
           ],
           "content": {
-            "description": "Known for its durable and straightforward design, the FABB safety shoe is a workhorse in our collection. It’s built to withstand tough conditions while keeping the wearer safe and secure.",
+            "description": "The Malgre Fabb PVC Safety Shoes are engineered to deliver superior protection, comfort, and durability in tough working conditions. Crafted from premium PVC material, these shoes offer excellent resistance against water, chemicals, and abrasions. The slip-resistant sole ensures safe footing on slippery surfaces, while the lightweight design provides all-day comfort without compromising on safety. Perfect for industrial, construction, and outdoor environments, the Malgre Fabb combines reliability with performance to keep you safe on the job.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 1220 GRAMS",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -505,7 +1004,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "HEIGHT: HIGH CUT",
   "11. EYELETS: RUST RESISTANT D-EYELETS",
   "12. PACKING: 20"
-]
+],
+pdf:'/FABB[1].pdf'
           }
         },
         {
@@ -519,6 +1019,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "The INFO model is engineered for workplaces that require a high degree of flexibility and comfort. It’s a lightweight yet highly protective option for jobs that involve frequent movement.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 947 GRAMS",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -544,6 +1073,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "The M4 is a modern, high-performance safety shoe with a focus on comprehensive protection. It features multiple safety elements to safeguard against a variety of workplace hazards.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
               "1.WEIGHT (BASED ON SIZE 8):",
               "2.SIZE: 6,7,8,9,10,11",
@@ -569,7 +1127,37 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PVC/MS 05/5.jpg"
           ],
           "content": {
-            "description": "A classic design that has proven its reliability over time. The MS 05 safety shoe is a dependable choice for general industrial use, offering a secure fit and robust protection.",
+            "description": "The Malgre MS-05 PVC Safety Shoes are engineered to deliver superior protection, comfort, and durability in tough working conditions. Crafted from premium PVC material, these shoes offer excellent resistance against water, chemicals, and abrasions. The slip-resistant sole ensures safe footing on slippery surfaces, while the lightweight design provides all-day comfort without compromising on safety. Perfect for industrial, construction, and outdoor environments, the Malgre MS-05 combines reliability with performance to keep you safe on the job.",
+
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 1163 GRAMS",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -582,7 +1170,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "HEIGHT: LOW CUT",
   "11. EYELETS: RUST RESISTANT EYELETS",
   "12. PACKING: 20"
-]
+],
+pdf:'/MS05[1].pdf'
           }
         },
         {
@@ -595,7 +1184,34 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Safety Shoe PVC/POWER +/5.jpg"
           ],
           "content": {
-            "description": "The POWER+ model is built for maximum power and protection. Its reinforced construction and advanced features make it an ideal choice for the most demanding work environments.",
+            "description": "Malgre POWER PLUS– PVC Safety Shoes The Malgre Power Plus PVC Safety Shoes are engineered todurability in tough working conditions. Crafted from premium PVC material, these shoes offer excellent resistance against water, chemicals, and abrasions. The slip-resistant sole ensures safe footing on slippery surfaces, while the lightweight design provides all-day comfort without compromising on safety. Perfect for industrial, construction, and outdoor environments, the Malgre Power Plus combines reliability with performance to keep you safe on the job.",
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
               "1.WEIGHT (BASED ON SIZE 8): 1136 GRAMS",
               "2.SIZE: 6,7,8,9,10,11",
@@ -608,7 +1224,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
               "HEIGHT: LOW CUT",
               "11. EYELETS: RUST RESISTANT EYELETS",
               "12. PACKING: 24 PAIR"
-            ]
+            ],
+            pdf:'/POWER PLUS.pdf[1].pdf'
           }
         },
         {
@@ -622,6 +1239,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "Our standard, no-nonsense safety shoe. The REGULAR BLACK is a straightforward and effective option that provides all the basic safety features required in a durable and affordable package.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
             "features": [
              "1.WEIGHT (BASED ON SIZE 8): 887 GRAMS",
 "2.SIZE: 5,6,7,8,9,10,11",
@@ -647,6 +1293,34 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "A high-visibility version of our standard safety shoe. The REGULAR ORANGE is perfect for workers who need to be easily spotted in low-light or high-traffic areas.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
             "features": [
             "1.WEIGHT (BASED ON SIZE 8): 887 GRAMS",
 "2.SIZE: 5,6,7,8,9,10,11",
@@ -672,6 +1346,34 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "The ROCK model is as tough as it sounds. Built to withstand extreme conditions, this safety shoe offers rock-solid protection and exceptional durability, making it a favorite for heavy industrial use.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.WEIGHT (BASED ON SIZE 8): 976 GRAMS",
   "2.SIZE: 6,7,8,9,10,11",
@@ -702,6 +1404,34 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "The 'BUSY' gumboot is designed for professionals who are constantly on the move. Its lightweight yet durable construction provides essential protection without slowing you down, making it perfect for dynamic work environments.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:11 INCHES",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -724,6 +1454,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "A classic and reliable gumboot built for tough conditions. The 'CHOTA GHODA' model offers robust protection against water, mud, and other ground hazards, ensuring a secure and dry experience.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:11 INCHES",
   "2.SIZE: 6,7,8,9,10,11",
@@ -745,7 +1504,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/CLOUD 14 BLACK BLACK/5.JPG"
           ],
           "content": {
-            "description": "Experience comfort like walking on a cloud with the 'CLOUD 14' series. This black-on-black model features a soft inner lining and cushioned sole, providing exceptional comfort while maintaining high safety standards.",
+            "description": "Malgre Cloud 14 inches is made up of fully Moulded hard PVC which provides better grip, its outsole has good Anti-Slip, Anti- Abrasion, Anti- Penetration, Heat resistant, Resistance to Mild acids, Alkalies & oils & upper has rubberized soft & Flexible PVC for a comfortable walk, The lining used is sweat-absorbent fabric which makes it suitable for agriculture and water harvesting.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:14 INCHES",
   "2.SIZE:5,6,7,8,9,10,11",
@@ -763,7 +1551,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 20 PAIR"
-]
+],
+pdf:'/CLOUD 14 BLACKBLACK PDF[1].pdf'
           }
         },
         {
@@ -776,7 +1565,37 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/CLOUD 14 BLACK RED/5.jpg"
           ],
           "content": {
-            "description": "This variant of the 'CLOUD 14' combines a black body with a vibrant red sole, adding a touch of style to safety. It offers the same cloud-like comfort and durability, making it both functional and visually appealing.",
+            "description": "Malgre Cloud 14 inches is made up of fully Moulded hard PVC which provides better grip, its outsole has good Anti-Slip, Anti- Abrasion, Anti- Penetration, Heat resistant & Resistance to Mild acids, Alkalies & oils & upper has rubberized soft & Flexible PVC for a comfortable walk, The lining used is sweat-absorbent fabric which makes it suitable for agriculture and water harvesting.",
+
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:14 INCHES",
   "2.SIZE:5,6,7,8,9,10,11",
@@ -794,7 +1613,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 20 PAIR"
-]
+],
+pdf:'/CLOUD 14 BLACKRED PDF[1].pdf'
           }
         },
         {
@@ -808,6 +1628,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
           ],
           "content": {
             "description": "Perfect for heavy rain and water-logged areas, the 'RAINFALL 12' is a high-performance gumboot with a shorter shaft for increased mobility. The classic black design ensures it fits seamlessly into any work uniform.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:12 INCHES",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -838,7 +1687,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/RAINFALL 12 BLACK RED/5.jpg"
           ],
           "content": {
-            "description": "This 'RAINFALL 12' model with a red sole provides a visual cue for safety, making it a great choice for areas that require high visibility. It offers reliable protection and comfort in all-weather conditions.",
+            "description": "Malgre Rainfall is a 12″ inches Dual Density PVC gumboot, belonging to the Rainwear category which protects the feet from Water, Mud, Chemicals, Acid, etc its lining is made up of 100% Polyester, the upper is made up of soft PVC for flexible & Comfortable walk.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:12 INCHES",
   "2.SIZE:5,6,7,8,9,10,11",
@@ -856,7 +1734,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 20 PAIR"
-]
+],
+pdf:'/RAINFALL 12 BLACKRED PDF[1].pdf'
           }
         },
         {
@@ -869,7 +1748,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/RAINFALL 16 BLACK BLACK/5.JPG"
           ],
           "content": {
-            "description": "With a taller shaft, the 'RAINFALL 16' provides extended protection against deeper water and splashes. The all-black design offers a professional look while ensuring maximum safety.",
+            "description": "Malgre Rainfall is 16 inches ISI marked Safety Gumboot, it is made up of fully Moulded hard PVC Which provided better grip its outsole has good Anti-Slip, Anti- Abrasion, AntiPenetration, Heat resistant & Resistance to Mild acid, Alkalies & oils & upper has rubberized soft & Flexible PVC for a comfortable walk, it has knitted fabric free from visible defects which makes it suitable for Engineering, Construction, Petrochemical, cement, Coal Mines & Railways. This Boot is resistant to leakage and complies with all the BIS Parameters.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:16 INCHES",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -887,7 +1794,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 20 PAIR"
-]
+],
+pdf:'/RAINFALL 16 BLACKBLACK PDF.pdf'
           }
         },
         {
@@ -900,7 +1808,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/RAINFALL 16 BLACK RED/5.JPG"
           ],
           "content": {
-            "description": "The 'RAINFALL 16' with a red sole is a top-of-the-line gumboot for high-risk, wet environments. The extended height and high-visibility color make it an excellent choice for safety-critical tasks.",
+            "description": "Malgre Rainfall is 16 inches ISI marked Safety Gumboot, it is made up of fully Mouldedhard PVC Which provided better grip its outsole has good Anti-Slip, Anti- Abrasion, AntiPenetration, Heat resistant & Resistance to Mild acid, Alkalies & oils & upper has rubberized soft & Flexible PVC for a comfortable walk, it has knitted fabric free from visible defects which makes it suitable for Engineering, Construction, Petrochemical, cement, Coal Mines & Railways. This Boot is resistant to leakage and complies with all the BIS Parameters.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:16 INCHES",
   "2.SIZE: 5,6,7,8,9,10,11",
@@ -918,7 +1855,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 20 PAIR"
-]
+],
+pdf:'/RAINFALL 16 BLACK RED PDF.pdf'
           }
         },
         {
@@ -931,7 +1869,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/SAPLESH 11 BLACK BLACK/5.jpg"
           ],
           "content": {
-            "description": "The 'SAPLESH 11' is a rugged, short-height gumboot designed for light to moderate wet conditions. Its minimalist design doesn't compromise on safety, providing reliable protection with a comfortable fit.",
+            "description": "Malgre Splash gumboot is made up of single-density polyvinyl chloride which provides coverage till calves, it contains 100 % polyester lining and hence is suitable for rainy, muddy & humid regions.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:11 INCHES",
   "2.SIZE:6,7,8,9,10,11",
@@ -949,7 +1915,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "LINING: DURABLE SYNTHETIC FABRIC",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 24 PAIR"
-]
+],
+pdf:'/SPLASH BLK BLK PDFF.pdf'
           }
         },
         {
@@ -962,7 +1929,36 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/SAPLESH 11 BLACK RED/5.jpg"
           ],
           "content": {
-            "description": "Combining the durability of the 'SAPLESH 11' with a striking red sole, this model ensures you stay safe and visible. It's an excellent choice for general use in industries that need reliable foot protection.",
+            "description": "Malgre Splash gumboot is made up of dual-density polyvinyl chloride which provides coverage till calves, it contains 100 %polyester lining and hence is suitable for rainy, muddy & humid regions.",
+
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:11 INCHES",
   "2.SIZE:6,7,8,9,10,11",
@@ -980,7 +1976,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 24 PAIR"
-]
+],
+pdf:'/SPLASH BLK RED PDFFF.pdf'
           }
         },
         {
@@ -993,7 +1990,35 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/SPLASH BLUE & BLK/5.jpg"
           ],
           "content": {
-            "description": "The 'SPLASH BLUE & BLK' gumboot features a modern blue and black design, perfect for work environments where style and safety go hand-in-hand. It provides excellent protection against water and other liquid hazards.",
+            "description": "Malgre Splash gumboot is made up of dual-density polyvinyl chloride which provides coverage till calves, it contains 100 % polyester lining and hence is suitable for rainy, muddy & humid regions.",
+
+                        Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:11 INCHES",
   "2.SIZE:6,7,8,9,10,11",
@@ -1011,7 +2036,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 24 PAIR"
-]
+],
+pdf:'/SPLASH BLUE BLACK PDF.pdf'
           }
         },
         {
@@ -1023,8 +2049,40 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
             "/Gumboots/SPLASH FULL BLUE/4.jpg",
             "/Gumboots/SPLASH FULL BLUE/5.jpg"
           ],
-          "content": {
-            "description": "For high-visibility and easy identification, the 'SPLASH FULL BLUE' gumboot is the ideal choice. Its solid blue color and robust construction ensure both safety and a professional appearance in any wet work setting.",
+"content": {
+            "description": `Malgre Splash gumboot is made up of dual-density polyvinyl
+chloride which provides coverage till calves, it contains 100 %
+polyester lining and hence is suitable for rainy, muddy &
+humid regions.`,
+
+            
+            Charactertistics:[
+    {
+      "title": "FEATURES",
+      "items": [
+        "LIGHTWEIGHT & COMFORTABLE",
+        "BREATHABLE & MOISTURE WICKING",
+        "FLEXIBLE & SOFTNESS",
+        "CHEMICAL & OIL RESISTANCE",
+        "ECO-FRIENDLY"
+      ]
+    },
+    {
+      "title": "INDUSTRIES",
+      "items": [
+        "CONSTRUCTION INDUSTRY",
+        "ENGINEERING INDUSTRY",
+        "FABRICATION INDUSTRY",
+        "CEMENT INDUSTRY"
+      ]
+    },
+    {
+      "title": "APPLICATION",
+      "items": [
+        "GENERAL SAFETY AT WORKPLACE"
+      ]
+    }
+  ],
 "features": [
   "1.HEIGHT:11 INCHES",
   "2.SIZE:6,7,8,9,10,11",
@@ -1042,7 +2100,8 @@ pdf: '/lEONINE DOUBLE DENSITY (1).pdf'
   "6. APPROVAL: IS:15298 PART 2, DESIGN C, CLASS 2",
   "TOE CAP: AVAILABLE IN BOTH WITH/WITHOUT TOE-CAP",
   "6.PACKING: 24 PAIR"
-]
+],
+pdf:'/SPLASH BLUE BLUE.pdf'
           }
         }
       ]
