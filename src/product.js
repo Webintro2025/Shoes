@@ -236,8 +236,8 @@ pdf:'/MISS-DOUBLE_DENSITY.pdf'
         {
           "name": "MISS SINGLE DENSITY",
           "images": [
-            "/Safety Shoe PU/MISS SINGLE DENSITY/1.jpg",
             "/Safety Shoe PU/MISS SINGLE DENSITY/2.jpg",
+            "/Safety Shoe PU/MISS SINGLE DENSITY/1.jpg",
             "/Safety Shoe PU/MISS SINGLE DENSITY/3.jpg",
             "/Safety Shoe PU/MISS SINGLE DENSITY/4.jpg",
             "/Safety Shoe PU/MISS SINGLE DENSITY/5.jpg"

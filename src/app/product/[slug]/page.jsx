@@ -39,7 +39,7 @@ const ProductDetailPage = () => {
   const { product, categoryName } = result
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container mx-auto px-10 py-8">
       {/* Breadcrumb */}
       <nav className="mb-8">
         <ol className="flex items-center space-x-2 text-sm text-gray-600">
