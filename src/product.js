@@ -1177,11 +1177,11 @@ pdf:'/MS05[1].pdf'
         {
           "name": "POWER +",
           "images": [
-            "/Safety Shoe PVC/POWER +/1.jpg",
-            "/Safety Shoe PVC/POWER +/2.jpg",
-            "/Safety Shoe PVC/POWER +/3.jpg",
-            "/Safety Shoe PVC/POWER +/4.jpg",
-            "/Safety Shoe PVC/POWER +/5.jpg"
+            "/Safety Shoe PVC/POWER/1.jpg",
+            "/Safety Shoe PVC/POWER/2.jpg",
+            "/Safety Shoe PVC/POWER/3.jpg",
+            "/Safety Shoe PVC/POWER/4.jpg",
+            "/Safety Shoe PVC/POWER/5.jpg"
           ],
           "content": {
             "description": "Malgre POWER PLUS– PVC Safety Shoes The Malgre Power Plus PVC Safety Shoes are engineered todurability in tough working conditions. Crafted from premium PVC material, these shoes offer excellent resistance against water, chemicals, and abrasions. The slip-resistant sole ensures safe footing on slippery surfaces, while the lightweight design provides all-day comfort without compromising on safety. Perfect for industrial, construction, and outdoor environments, the Malgre Power Plus combines reliability with performance to keep you safe on the job.",

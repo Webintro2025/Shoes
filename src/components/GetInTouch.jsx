@@ -82,11 +82,11 @@ const GetInTouch = () => {
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
           <p className="text-white text-sm sm:text-lg font-light max-w-xl text-center sm:text-left">
             If You Need Any Industrial Solution{" "}
-            <span className="text-black font-semibold">
+            <span className="text-white font-semibold">
               ... We Are Available For You
             </span>
           </p>
-          <button className="bd-black font-bold px-4 sm:px-6 py-2 sm:py-3 rounded-sm whitespace-nowrap transition-colors text-xs sm:text-sm">
+          <button className="text-white font-bold px-4 sm:px-6 py-2 sm:py-3 rounded-sm whitespace-nowrap transition-colors text-xs sm:text-sm">
             CONTACT US
           </button>
         </div>

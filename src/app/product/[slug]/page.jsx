@@ -177,7 +177,7 @@ const ProductDetailPage = () => {
                       return (
                         <tr
                           key={index}
-                          className={index % 2 === 0 ? 'bg-white' : 'bg-gray-300'}
+                          className={index % 2 === 0 ? 'bg-white' : 'bg-[#F2F2F2]'}
                         >
                           <th className="w-1/3 px-4 py-3 text-gray-600 font-semibold uppercase tracking-wide">
                             {label}

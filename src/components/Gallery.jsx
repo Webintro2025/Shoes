@@ -5,7 +5,7 @@ const categories = [
 
 		{
 			title: "Pu Safety Shoes ",
-			image: "/Safety Shoe PU/LEONINE DOUBLE DENSITY/1.jpg",
+			image: "/puu.png",
 			slug: "safety-shoe-pu",
 		},
 		{

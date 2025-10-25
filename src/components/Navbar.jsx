@@ -17,7 +17,8 @@ const Navbar = () => {
     <div className="bg-white">
       {/* Top Contact Bar */}
       <div className="bg-black text-white text-[10px] sm:text-xs md:text-sm">
-        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-start gap-2 sm:gap-6 px-3 py-2">
+        {/* On mobile show phone left and email right (side-by-side). On larger screens keep spacing as before. */}
+        <div className="max-w-7xl mx-auto flex items-center justify-between px-3 py-2 gap-2 sm:justify-start sm:gap-6">
           <div className="flex items-center gap-2">
             <i className="fas fa-phone-alt text-white text-sm"></i>
             <span className="font-semibold">9773797782</span>
@@ -35,16 +36,11 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-4">
           <Link href="/" className="flex items-center space-x-2 sm:space-x-3 group flex-shrink-0">
             <img
-              src="/logo.png"
+              src="/logooo.png"
               alt="Blue lighthouse factory icon with smoke and clouds"
-              className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 group-hover:opacity-80 transition-opacity"
+              className="w-50 h-10 sm:w-14 sm:h-14 md:w-70 md:h-20  "
             />
-            <div className="hidden sm:block">
-              <h1 className="text-sm md:text-xl font-extrabold text-gray-900 leading-none flex items-center">
-                Malgre <span className="ml-2 text-[#DD2B1C]"> Safety Solutions </span>
-              </h1>
-              <p className="text-gray-500 pl-[3px] text-[10px] md:text-sm mt-1">Private Limited</p>
-            </div>
+        
           </Link>
 
           {/* Desktop Menu */}
@@ -99,12 +95,7 @@ const Navbar = () => {
           </button>
         </div>
 
-        {/* CTA Button visible for mobile */}
-        <div className="md:hidden mt-3 max-w-7xl mx-auto">
-          <button className="w-full bg-[#DD2B1C] hover:bg-[#b71b14] text-white font-semibold py-2 rounded-full text-sm">
-            WhatsApp
-          </button>
-        </div>
+        {/* NOTE: Mobile WhatsApp button moved inside mobile menu (below) so it's part of the menu list */}
 
         {/* Mobile Menu */}
         <div className={`md:hidden bg-white transition-all duration-300 ease-in-out ${
@@ -158,6 +149,19 @@ const Navbar = () => {
               </Link>
             </li>
           </ul>
+          {/* WhatsApp button inside mobile menu */}
+          <div className="px-3 pb-4">
+            <a
+              href="https://wa.me/9773797782"
+              target="_blank"
+              rel="noreferrer"
+              onClick={() => setMenuOpen(false)}
+              className="w-full inline-flex items-center justify-center gap-2 bg-[#DD2B1C] hover:bg-[#b71b14] text-white font-semibold py-2 rounded-full text-sm"
+            >
+              <i className="fab fa-whatsapp"></i>
+              <span>WhatsApp</span>
+            </a>
+          </div>
           </div>
         </div>
       </nav>
