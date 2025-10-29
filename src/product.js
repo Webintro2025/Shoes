@@ -118,7 +118,7 @@ pdf: '/lEONINE SINGLE DENSITY.pdf'
           }
         },
         {
-          "name": "LOGIN NEW",
+          "name": "LOGIN",
           "images": [
             "/Safety Shoe PU/LOGIN NEW/1.jpg",
             "/Safety Shoe PU/LOGIN NEW/2.jpg",

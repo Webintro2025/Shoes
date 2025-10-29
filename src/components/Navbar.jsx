@@ -38,7 +38,7 @@ const Navbar = () => {
             <img
               src="/logooo.png"
               alt="Blue lighthouse factory icon with smoke and clouds"
-              className="w-50 h-10 sm:w-14 sm:h-14 md:w-70 md:h-20  "
+              className="w-30 h-11 sm:w-14 sm:h-14 md:w-28 md:h-20"
             />
         
           </Link>
